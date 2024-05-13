@@ -19,7 +19,7 @@ def exibir_opcoes():
     print('3. Ativar restaurante')
     print('4. Sair \n')
 
-#Criando uma função
+#Criando uma função para finalizar app
 def finalizar_app():
     os.system('cls')#lib para passar comandos do OS
     print('Encerrando o programa \n')
